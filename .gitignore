@@ -1,0 +1,12 @@
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+/credentials.json
+/token.json
+/service-account.json
+/credentials/
+
+# Regenerable intermediate files
+/.tmp/
