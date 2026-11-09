@@ -1,0 +1,5 @@
+# При обновлении продукта из шаблона (git merge template/main)
+# данные продукта всегда остаются в версии продукта.
+# Работает после одноразовой настройки в каждой копии:
+#   git config merge.ours.driver true
+workspace/** merge=ours
