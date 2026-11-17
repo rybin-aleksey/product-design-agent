@@ -17,7 +17,7 @@ description: Постановка стартовой дизайн-системы
 - Пользователь просит «поставить / создать дизайн-систему с нуля», «завести токены и UI-кит».
 - Нет `workspace/product/ds/CONTRACT.md`.
 
-**Не использовать**, если у продукта уже есть ДС (существует `workspace/product/ds/CONTRACT.md`): расширение UI-кита, новые варианты и состояния, ребрендинг — отдельные задачи поверх существующей ДС. Если ДС уже собрана в Figma, но не проиндексирована, используй [design-system-scan](../design-system-scan/SKILL.md).
+**Не использовать**, если у продукта уже есть ДС (существует `workspace/product/ds/CONTRACT.md`): расширение UI-кита ([design-system-grow](../design-system-grow/SKILL.md)), новые варианты и состояния ([design-system-variants](../design-system-variants/SKILL.md)), ребрендинг — отдельные задачи поверх существующей ДС. Если ДС уже собрана в Figma, но не проиндексирована, используй [design-system-scan](../design-system-scan/SKILL.md).
 
 ## Роль
 
